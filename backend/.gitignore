@@ -1,0 +1,7 @@
+.env
+ai-feedback-tool-fynd-firebase-adminsdk-fbsvc-82c9918ffe.json
+ineedyhidforLLM/
+# secrets / temp files
+combined_code.txt
+ineedthisforLLM/
+firebase*.json

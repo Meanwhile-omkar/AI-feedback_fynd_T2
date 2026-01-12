@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+.venv/
+
+# Secrets
+.env
+*.json
+firebase*.json
+
+# Temp / debug
+combined_code.txt
+ineedthisforLLM/
+
+# OS
+.DS_Store

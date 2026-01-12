@@ -1,0 +1,10 @@
+# render.yaml (optional)
+services:
+  - type: web
+    name: ai-feedback-backend
+    env: docker
+    plan: free
+    repo: https://github.com/Meanwhile-omkar/AI-feedback_fynd_T2
+    branch: main
+    rootDir: backend
+    dockerCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
