@@ -8,8 +8,7 @@ __pycache__/
 
 # Secrets
 .env
-*.json
-firebase*.json
+ai-feedback-tool-fynd-firebase-adminsdk-fbsvc-82c9918ffe.json
 
 # Temp / debug
 combined_code.txt
